@@ -1,4 +1,5 @@
 # Android Studio CRUD with Rest Api and Mysql Database
+Sebuah mini aplikasi yang berisi tentang proses tambah, hapus, ubah, dan ambil data atau biasa disebut dengan CRUD. Dengan menggunakan Platform Android yang dikembangkan oleh android studio sebagai aplikasi development, codeigniter v4 sebagai rest-api dan mysql sebagai database. Bertujuan untuk memenuhi tugas perkuliahan dan berbagi kepada yang lain. 
 
 ## Cara Install
 
