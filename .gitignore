@@ -1,0 +1,145 @@
+#----------------------------------#
+#----IGNORE DARI FOLDER ANDROID----#
+*.iml
+/App-android-studio/.gradle
+/App-android-studio/local.properties
+/App-android-studio/.idea/caches
+/App-android-studio/.idea/libraries
+/App-android-studio/.idea/modules.xml
+/App-android-studio/.idea/workspace.xml
+/App-android-studio/.idea/navEditor.xml
+/App-android-studio/.idea/assetWizardSettings.xml
+/App-android-studio/.DS_Store
+/App-android-studio/build
+/App-android-studio/captures
+/App-android-studio/.externalNativeBuild
+/App-android-studio/.cxx
+
+
+
+#-------------------------
+# Operating Specific Junk Files
+#-------------------------
+
+# OS X
+/Api-Codeigniter/.DS_Store
+/Api-Codeigniter/.AppleDouble
+/Api-Codeigniter/.LSOverride
+
+# OS X Thumbnails
+._*
+
+# Windows image file caches
+/Api-Codeigniter/Thumbs.db
+/Api-Codeigniter/ehthumbs.db
+/Api-Codeigniter/Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Linux
+*~
+
+# KDE directory preferences
+/Api-Codeigniter/.directory
+
+# Linux trash folder which might appear on any partition or disk
+/Api-Codeigniter/.Trash-*
+
+#-------------------------
+# Environment Files
+#-------------------------
+# These should never be under version control,
+# as it poses a security risk.
+/Api-Codeigniter/.env
+/Api-Codeigniter/.vagrant
+/Api-Codeigniter/Vagrantfile
+
+#-------------------------
+# Temporary Files
+#-------------------------
+/Api-Codeigniter/writable/cache/*
+/Api-Codeigniter/!writable/cache/index.html
+
+/Api-Codeigniter/writable/logs/*
+/Api-Codeigniter/!writable/logs/index.html
+
+/Api-Codeigniter/writable/session/*
+/Api-Codeigniter/!writable/session/index.html
+
+/Api-Codeigniter/writable/uploads/*
+/Api-Codeigniter/!writable/uploads/index.html
+
+/Api-Codeigniter/writable/debugbar/*
+/Api-Codeigniter/php_errors.log
+
+#-------------------------
+# User Guide Temp Files
+#-------------------------
+/Api-Codeigniter/user_guide_src/build/*
+/Api-Codeigniter/user_guide_src/cilexer/build/*
+/Api-Codeigniter/user_guide_src/cilexer/dist/*
+/Api-Codeigniter/user_guide_src/cilexer/pycilexer.egg-info/*
+
+#-------------------------
+# Test Files
+#-------------------------
+/Api-Codeigniter/tests/coverage*
+
+# Don't save phpunit under version control.
+/Api-Codeigniter/phpunit
+
+#-------------------------
+# Composer
+#-------------------------
+/Api-Codeigniter/vendor/
+
+#-------------------------
+# IDE / Development Files
+#-------------------------
+
+# Modules Testing
+/Api-Codeigniter/_modules/*
+
+# phpenv local config
+/Api-Codeigniter/.php-version
+
+# Jetbrains editors (PHPStorm, etc)
+/Api-Codeigniter/.idea/
+*.iml
+
+# Netbeans
+/Api-Codeigniter/nbproject/
+/Api-Codeigniter/build/
+/Api-Codeigniter/nbbuild/
+/Api-Codeigniter/dist/
+/Api-Codeigniter/nbdist/
+/Api-Codeigniter/nbactions.xml
+/Api-Codeigniter/nb-configuration.xml
+/Api-Codeigniter/.nb-gradle/
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/Api-Codeigniter/.phpintel
+/Api-Codeigniter/api/
+
+# Visual Studio Code
+/Api-Codeigniter/.vscode/
+
+/Api-Codeigniter/results/
+/Api-Codeigniter/phpunit*.xml
+/Api-Codeigniter/.phpunit.*.cache
+
